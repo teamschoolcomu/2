@@ -1,0 +1,110 @@
+{
+    "version":  1,
+    "format":  "raw-zip-parts",
+    "file":  "cstrike2.zip",
+    "chunkSize":  8388608,
+    "totalSize":  162060919,
+    "sha256":  "937a8dbeae1a9ce88254926f4e5a043e467fb02822d5b50cbf300f5d08cb4e31",
+    "parts":  [
+                  {
+                      "file":  "cstrike2.zip.part001",
+                      "size":  8388608,
+                      "sha256":  "16ee55f590c2f0f4099872540d901a1955b6f7b46a5ada6117d98f82c58dbcf7"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part002",
+                      "size":  8388608,
+                      "sha256":  "aebdc370e553db0c2fb8d7a99a26068b9b4775f9a2d6833133f7e1da5727a8fd"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part003",
+                      "size":  8388608,
+                      "sha256":  "008d269915e6ffb2014348243abcc37970f0a26774f3b2b01f33a4c5cb7e0c93"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part004",
+                      "size":  8388608,
+                      "sha256":  "bceefac860e3fce25d30eedd780b9131bc2ab49ed34a8cbb77a7a9b4ce13271c"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part005",
+                      "size":  8388608,
+                      "sha256":  "348bb9852105250bd9f42817e783cff5206bd0c342c9f088614e448612790d81"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part006",
+                      "size":  8388608,
+                      "sha256":  "1f54b80b33a5b9625f7f9fa81f5e03c852cb970d5df9913e1609cd1aa13bc5c3"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part007",
+                      "size":  8388608,
+                      "sha256":  "26ef6540b868ec5e7b73a2f7f2cdd376afc13a1ba1ee18b3231335a1ec51214c"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part008",
+                      "size":  8388608,
+                      "sha256":  "c23a252d529522a65927554616631f9f59fe692cb192a199a7675b03361ef8cf"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part009",
+                      "size":  8388608,
+                      "sha256":  "25e173ffc8b83a49dd0894102c80c077fbb16f17fd401e61a2fb51c7b52e0c8a"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part010",
+                      "size":  8388608,
+                      "sha256":  "2acf709084b1fbbbcb8f98ba879d9e99eb233b767e0f0375f26e8b7c06f6adb9"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part011",
+                      "size":  8388608,
+                      "sha256":  "42ed36d4b109f41f04440b486933121e013d726cd99c9e7ba1dc100e9008d665"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part012",
+                      "size":  8388608,
+                      "sha256":  "e0aa4b7ef29ebc865841ecd1d4fd384a554c427624473951895a9818e34aaee7"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part013",
+                      "size":  8388608,
+                      "sha256":  "0a8dc2ff4d3723ffc1df918c246e63985425c14b34c001f8166913024a4e1e97"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part014",
+                      "size":  8388608,
+                      "sha256":  "699e98fdcc783ad2039b6f9a0ae6669c3927951f6b254433ea0d61a7abf2900d"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part015",
+                      "size":  8388608,
+                      "sha256":  "93a19ada53eb286c7d09193300ed2a864d028c9bff975747ce53eec5df2b0f54"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part016",
+                      "size":  8388608,
+                      "sha256":  "bdb740948dec6454fb1fa429421791387ada813d07fef85efbfaadba03e36977"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part017",
+                      "size":  8388608,
+                      "sha256":  "f37a4cdb0fe6622db6e504de5b5545a132c8e7c4fd94153814aaba276c8ded61"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part018",
+                      "size":  8388608,
+                      "sha256":  "545320c891f0cb810dd6ae52343fd5b8970d1a0d66eb12ad77850ff6e59da1cf"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part019",
+                      "size":  8388608,
+                      "sha256":  "4d0813c3515117b57d4931c2724343661753da6c1c7e60d1358f4ad00bf1596d"
+                  },
+                  {
+                      "file":  "cstrike2.zip.part020",
+                      "size":  2677367,
+                      "sha256":  "52e0943ed8890d7721624a0e4d3d9db0a38068cccc190ca4baee9232136365a3"
+                  }
+              ]
+}
