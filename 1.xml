@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
 <ModulePrefs title="classrsoomgoogle" />
 <Content type="html"><![CDATA[
@@ -8,8 +8,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Counter 99</title>
-
 <style>
 * {
   box-sizing: border-box;
